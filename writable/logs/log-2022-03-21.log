@@ -1,0 +1,124 @@
+CRITICAL - 2022-03-21 13:14:47 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\pustaka-booking\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\pustaka-booking\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-03-21 13:14:52 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\pustaka-booking\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\pustaka-booking\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-03-21 11:55:47 --> Class "CI_Controller" not found
+#0 C:\xampp\htdocs\pustaka-booking\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\pustaka-booking\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('biodata')
+#2 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('biodata')
+#3 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pustaka-booking\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-21 11:55:59 --> Class "CI_Controller" not found
+#0 C:\xampp\htdocs\pustaka-booking\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\pustaka-booking\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('biodata')
+#2 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('biodata')
+#3 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pustaka-booking\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-21 11:56:05 --> Class "CI_Controller" not found
+#0 C:\xampp\htdocs\pustaka-booking\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\pustaka-booking\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('biodata')
+#2 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('biodata')
+#3 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pustaka-booking\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-21 11:56:21 --> Class "CI_Controller" not found
+#0 C:\xampp\htdocs\pustaka-booking\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\pustaka-booking\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('biodata')
+#2 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('biodata')
+#3 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pustaka-booking\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-21 12:04:12 --> Class "CI_Controller" not found
+#0 C:\xampp\htdocs\pustaka-booking\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\pustaka-booking\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('biodata')
+#2 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('biodata')
+#3 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pustaka-booking\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-21 12:04:27 --> Class "CI_Controller" not found
+#0 C:\xampp\htdocs\pustaka-booking\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\pustaka-booking\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('biodata')
+#2 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('biodata')
+#3 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pustaka-booking\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-21 12:19:22 --> Class "CI_Controller" not found
+#0 C:\xampp\htdocs\pustaka-booking\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\pustaka-booking\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('biodata')
+#2 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('biodata')
+#3 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pustaka-booking\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-21 12:26:11 --> Class "CI_Controller" not found
+#0 C:\xampp\htdocs\pustaka-booking\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\pustaka-booking\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('biodata')
+#2 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('biodata')
+#3 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pustaka-booking\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-21 12:28:01 --> Class "CI_Controller" not found
+#0 C:\xampp\htdocs\pustaka-booking\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\pustaka-booking\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('biodata')
+#2 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('biodata')
+#3 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pustaka-booking\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-21 12:28:02 --> Class "CI_Controller" not found
+#0 C:\xampp\htdocs\pustaka-booking\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\pustaka-booking\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('biodata')
+#2 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('biodata')
+#3 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pustaka-booking\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-21 12:28:03 --> Class "CI_Controller" not found
+#0 C:\xampp\htdocs\pustaka-booking\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\pustaka-booking\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('biodata')
+#2 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('biodata')
+#3 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pustaka-booking\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-21 12:30:36 --> Class "CI_controller" not found
+#0 C:\xampp\htdocs\pustaka-booking\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\pustaka-booking\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('biodata')
+#2 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('biodata')
+#3 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pustaka-booking\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-21 12:30:36 --> Class "CI_controller" not found
+#0 C:\xampp\htdocs\pustaka-booking\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\pustaka-booking\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('biodata')
+#2 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('biodata')
+#3 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pustaka-booking\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-21 12:47:36 --> Class "BaseController" not found
+#0 C:\xampp\htdocs\pustaka-booking\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\pustaka-booking\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('biodata')
+#2 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('biodata')
+#3 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pustaka-booking\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
